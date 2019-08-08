@@ -1,7 +1,6 @@
 {
   "name": "Aula01",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "nodemon",
@@ -12,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "description": ""
 }
