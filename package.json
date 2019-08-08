@@ -1,9 +1,9 @@
 {
   "name": "LP3_2019_2",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
+    "start": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/V1c3nt3/LP3_2019_2/issues"
   },
-  "homepage": "https://github.com/V1c3nt3/LP3_2019_2#readme"
+  "homepage": "https://github.com/V1c3nt3/LP3_2019_2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "description": ""
 }
